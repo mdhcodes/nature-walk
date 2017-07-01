@@ -11,5 +11,5 @@ Nature Walk allows children to learn about life forms they might find in the woo
 
 
 
-Site architecture and planning are included in the ui_ux folder.
+Site architecture, UI/UX design, data flow, and project management are included in the planning folder.
 
