@@ -1,0 +1,64 @@
+{
+  "_from": "nativescript-sqlite",
+  "_id": "nativescript-sqlite@1.1.7",
+  "_inBundle": false,
+  "_integrity": "sha1-CLcp4UHsKBigTu81SBM9jWZuF8Q=",
+  "_location": "/nativescript-sqlite",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "nativescript-sqlite",
+    "name": "nativescript-sqlite",
+    "escapedName": "nativescript-sqlite",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-sqlite/-/nativescript-sqlite-1.1.7.tgz",
+  "_shasum": "08b729e141ec2818a04eef3548133d8d666e17c4",
+  "_spec": "nativescript-sqlite",
+  "_where": "C:\\Users\\Michelle\\bootcamp\\native_script_tutorials\\nature_walk",
+  "author": {
+    "name": "Nathanael Anderson",
+    "email": "nathan@master-technology.com"
+  },
+  "bugs": {
+    "url": "https://github.com/nathanaela/nativescript-sqlite/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A sqlite NativeScript module for Android and iOS",
+  "homepage": "https://github.com/nathanaela/nativescript-sqlite",
+  "keywords": [
+    "NativeScript",
+    "SQL",
+    "SQLite",
+    "Database",
+    "DB",
+    "iOS",
+    "Android",
+    "JavaScript"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/nathanaela/nativescript-sqlite/blob/master/LICENSE"
+  },
+  "main": "sqlite",
+  "name": "nativescript-sqlite",
+  "nativescript": {
+    "platforms": {
+      "android": "1.4.0",
+      "ios": "1.4.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanaela/nativescript-sqlite.git"
+  },
+  "version": "1.1.7"
+}

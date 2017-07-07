@@ -1,0 +1,10 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd"  loaded="loaded">
+  <Page.actionBar>
+      <ActionBar title="Nature Walk"/>
+  </Page.actionBar>
+    <StackLayout orientation="vertical">
+        <Label class="h2 text-center" text="Plants in the Woods"></Label>
+        <Button text="Water Lilies" tap="select_plant"/>
+        <Button text="Orange Blossoms" tap="select_plant"/>
+    </StackLayout>
+</Page>

@@ -1,0 +1,11 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" animalFacts="DisplayAnimalFacts">
+  <Page.actionBar>
+      <ActionBar title="Nature Walk"/>
+  </Page.actionBar>
+        <StackLayout orientation="vertical">
+            <Label class="h2 text-center" text="Facts"></Label>
+            <!--Display data in the database-->
+            <Button text="Get More Information" tap="" />
+            <!--Display simple.Wikipedia.org fetch() results if requested-->
+        </StackLayout>    
+</Page>

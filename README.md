@@ -1,4 +1,5 @@
 # Nature Walk
+NativeScript Application for Android
 
 Nature Walk is a web application being developed for children to encourage them to explore the outdoors. As a society, we're spending more and more time in front of a screen. We're not getting enough exercise and connecting with the world around us. We need to balance our time and not forget that unplugging is just as important, if not more important, than surfing the web, interacting with digital apps / games, and watching TV / video.
 
@@ -13,3 +14,5 @@ Nature Walk allows children to learn about life forms they might find in the woo
 
 Site architecture, UI/UX design, data flow, and project management are included in the planning folder.
 
+To start the application in an Android Emulator execute the following command (twice):
+tns run android

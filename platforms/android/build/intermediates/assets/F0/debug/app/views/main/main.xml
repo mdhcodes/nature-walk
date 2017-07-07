@@ -1,0 +1,14 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd">
+  <Page.actionBar>
+      <ActionBar title="Nature Walk"/>
+  </Page.actionBar>
+
+    <StackLayout orientation="vertical">
+        <Label class="h2 text-center" text="Let's look for life in the woods!"></Label>
+        <Label class="h3 text-center" text="Animals"></Label>
+        <Image src="res://zebra_longwing" stretch="none" horizontalAlignment="center" tap="choose_animals" />
+        <Label class="h3 text-center" text="Plants"></Label>
+        <Image src="res://orange_blossoms" stretch="none" horizontalAlignment="center" tap="choose_plants" />   
+    </StackLayout>
+
+</Page>

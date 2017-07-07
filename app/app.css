@@ -1,0 +1,12 @@
+﻿@import 'nativescript-theme-core/css/core.light.css';
+
+Image {
+    margin-top: 10;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 40;
+}
+Button {
+    margin: 10;
+    padding: 10;
+}
