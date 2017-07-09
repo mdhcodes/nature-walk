@@ -4,12 +4,7 @@ exports.loaded = function(args) {
     var page = args.object;
 };
 
-exports.choose_animals = function() {
+exports.butterfly = function() {
     var topmost = frameModule.topmost();
-    topmost.navigate("views/animals/animals");
-}
-
-exports.choose_plants = function() {
-    var topmost = frameModule.topmost();
-    topmost.navigate("views/plants/plants");
+    topmost.navigate("views/nature/nature");
 }

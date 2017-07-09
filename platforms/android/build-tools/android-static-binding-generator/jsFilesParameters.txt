@@ -1,5 +1,5 @@
 C:\Users\Michelle\bootcamp\homework\nature_walk\platforms\android\src\main\assets\app\app.js
-C:\Users\Michelle\bootcamp\homework\nature_walk\platforms\android\src\main\assets\app\shared\view-models\facts-view-model.js
+C:\Users\Michelle\bootcamp\homework\nature_walk\platforms\android\src\main\assets\app\shared\view-models\nature-view-model.js
 C:\Users\Michelle\bootcamp\homework\nature_walk\platforms\android\src\main\assets\app\tns_modules\nativescript-sqlite\sqlite.js
 C:\Users\Michelle\bootcamp\homework\nature_walk\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\bundle-entry-points.js
 C:\Users\Michelle\bootcamp\homework\nature_walk\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\application\application-common.js
@@ -154,7 +154,5 @@ C:\Users\Michelle\bootcamp\homework\nature_walk\platforms\android\src\main\asset
 C:\Users\Michelle\bootcamp\homework\nature_walk\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\utils\utils.js
 C:\Users\Michelle\bootcamp\homework\nature_walk\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\xhr\xhr.js
 C:\Users\Michelle\bootcamp\homework\nature_walk\platforms\android\src\main\assets\app\tns_modules\tns-core-modules\xml\xml.js
-C:\Users\Michelle\bootcamp\homework\nature_walk\platforms\android\src\main\assets\app\views\animals\animals.js
-C:\Users\Michelle\bootcamp\homework\nature_walk\platforms\android\src\main\assets\app\views\facts\facts.js
 C:\Users\Michelle\bootcamp\homework\nature_walk\platforms\android\src\main\assets\app\views\main\main.js
-C:\Users\Michelle\bootcamp\homework\nature_walk\platforms\android\src\main\assets\app\views\plants\plants.js
+C:\Users\Michelle\bootcamp\homework\nature_walk\platforms\android\src\main\assets\app\views\nature\nature.js

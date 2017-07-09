@@ -3,21 +3,30 @@
 
     <item
         is-multidex="false"
+        jar="C:\Users\Michelle\bootcamp\native_script_testing\nature_walk_working\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Michelle\bootcamp\native_script_testing\nature_walk_working\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-23.4.0_4c586673f27c0e2119fa858dd3316f4664da6fec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Michelle\bootcamp\native_script_testing\nature_walk_working\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Michelle\bootcamp\native_script_testing\nature_walk_working\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-23.4.0_134ceeb25bae3dedbb727c065c1ec8164181e6de.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Michelle\bootcamp\homework\nature_walk\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
         <dex dex="C:\Users\Michelle\bootcamp\homework\nature_walk\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-23.4.0_38772611fae94a65fb35d7127e840ef768db6ae6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Michelle\bootcamp\native_script_tutorials\nature_walk\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
-        <dex dex="C:\Users\Michelle\bootcamp\native_script_tutorials\nature_walk\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_bf165ea58253d05e4674afe02c3fa3f1d45b0a99.jar" />
     </item>
     <item
         is-multidex="false"
@@ -30,12 +39,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Michelle\bootcamp\native_script_tutorials\nature_walk\platforms\android\build\intermediates\exploded-aar\naturewalk\runtime\unspecified\jars\libs\binding-generator.jar"
+        jar="C:\Users\Michelle\bootcamp\homework\nature_walk\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
-        <dex dex="C:\Users\Michelle\bootcamp\native_script_tutorials\nature_walk\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_43941af97dd3ce77922908243c4d565619199e80.jar" />
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Michelle\bootcamp\homework\nature_walk\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-23.4.0_f60a2a3abff52ed1790365787c4a30ad66642145.jar" />
     </item>
     <item
         is-multidex="false"
@@ -48,21 +57,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Michelle\bootcamp\homework\nature_walk\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jar="C:\Users\Michelle\bootcamp\native_script_testing\nature_walk_working\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="C:\Users\Michelle\bootcamp\homework\nature_walk\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-23.4.0_f60a2a3abff52ed1790365787c4a30ad66642145.jar" />
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Michelle\bootcamp\native_script_testing\nature_walk_working\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-23.4.0_eea0c214d801ffa90c8cc2624b8b692e6ae9df2c.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Michelle\bootcamp\native_script_tutorials\nature_walk\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jar="C:\Users\Michelle\bootcamp\native_script_testing\nature_walk_working\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="C:\Users\Michelle\bootcamp\native_script_tutorials\nature_walk\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-23.4.0_a49ebbc4b804d1d6bcd38e188c8314bc2de3f086.jar" />
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Michelle\bootcamp\native_script_testing\nature_walk_working\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-23.4.0_daff83b64614bb30ffa0f63486db2af12f7421e6.jar" />
     </item>
     <item
         is-multidex="false"
@@ -75,12 +84,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Michelle\bootcamp\native_script_tutorials\nature_walk\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jar="C:\Users\Michelle\bootcamp\native_script_testing\nature_walk_working\platforms\android\build\intermediates\exploded-aar\naturewalk\runtime\unspecified\jars\libs\binding-generator.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
-        <dex dex="C:\Users\Michelle\bootcamp\native_script_tutorials\nature_walk\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-23.4.0_0af81cf860dab61871aa41353d8ee85aa69ca838.jar" />
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="C:\Users\Michelle\bootcamp\native_script_testing\nature_walk_working\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_6e07f8e05c831b68c3c03f2c4782eb41f6c0eb77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Michelle\bootcamp\native_script_testing\nature_walk_working\platforms\android\build\intermediates\exploded-aar\naturewalk\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30b97ea5d6274e02330dcc69943087778363c172">
+        <dex dex="C:\Users\Michelle\bootcamp\native_script_testing\nature_walk_working\platforms\android\build\intermediates\pre-dexed\F0\debug\naturewalk-runtime-unspecified_d2ecb17c3c79b68b17121703557d50990b6cbd62.jar" />
     </item>
     <item
         is-multidex="false"
@@ -93,6 +111,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Michelle\bootcamp\native_script_testing\nature_walk_working\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="C:\Users\Michelle\bootcamp\native_script_testing\nature_walk_working\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_9ffbc0e7dfbe34c6c103a46653e3b6c827a4b0f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Michelle\bootcamp\homework\nature_walk\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -102,21 +129,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Michelle\bootcamp\native_script_tutorials\nature_walk\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jar="C:\Users\Michelle\bootcamp\native_script_testing\nature_walk_working\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="C:\Users\Michelle\bootcamp\native_script_tutorials\nature_walk\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-23.4.0_537bd5691469a796241386060b5146b86a43df94.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Michelle\bootcamp\native_script_tutorials\nature_walk\platforms\android\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
-        <dex dex="C:\Users\Michelle\bootcamp\native_script_tutorials\nature_walk\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-23.4.0_1a921c6047f42d9dee8ad2020bfc910f1a747190.jar" />
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Michelle\bootcamp\native_script_testing\nature_walk_working\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-23.4.0_396aa0e4118ddb47c78da2680b9895a75fadf39c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -129,21 +147,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Michelle\bootcamp\native_script_tutorials\nature_walk\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jar="C:\Users\Michelle\bootcamp\native_script_testing\nature_walk_working\platforms\android\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="C:\Users\Michelle\bootcamp\native_script_tutorials\nature_walk\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-23.4.0_3df3cef6898e86dea3a5643481093440866906f9.jar" />
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Michelle\bootcamp\native_script_testing\nature_walk_working\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-23.4.0_423de53b196fa7c743dcf92c3af98296b0783c5b.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Michelle\bootcamp\native_script_tutorials\nature_walk\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jar="C:\Users\Michelle\bootcamp\native_script_testing\nature_walk_working\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="C:\Users\Michelle\bootcamp\native_script_tutorials\nature_walk\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-23.4.0_8f426f995cac82d40eb0e5cba682ec81248ef3bf.jar" />
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Michelle\bootcamp\native_script_testing\nature_walk_working\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-23.4.0_5b1b0db58439068bdc99ddbec50f41a054207e8f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -165,30 +183,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Michelle\bootcamp\native_script_tutorials\nature_walk\platforms\android\build\intermediates\exploded-aar\naturewalk\runtime\unspecified\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="30b97ea5d6274e02330dcc69943087778363c172">
-        <dex dex="C:\Users\Michelle\bootcamp\native_script_tutorials\nature_walk\platforms\android\build\intermediates\pre-dexed\F0\debug\naturewalk-runtime-unspecified_e26a7fcef32fc212773a1059dfd1c794665baff0.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\Michelle\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="C:\Users\Michelle\bootcamp\native_script_tutorials\nature_walk\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-23.4.0_141d3cac17bdf48f5663c6d6f3f226cd3b3e0031.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Michelle\bootcamp\native_script_tutorials\nature_walk\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="C:\Users\Michelle\bootcamp\native_script_tutorials\nature_walk\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-23.4.0_08fc5bd4b8f1d4750e872bf49fbc40dd64e4bf89.jar" />
+        <dex dex="C:\Users\Michelle\bootcamp\native_script_testing\nature_walk_working\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-23.4.0_141d3cac17bdf48f5663c6d6f3f226cd3b3e0031.jar" />
     </item>
 
 </items>

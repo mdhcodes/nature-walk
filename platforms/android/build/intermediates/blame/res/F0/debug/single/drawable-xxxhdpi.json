@@ -1,11 +1,23 @@
 [
     {
+        "merged": "C:\\Users\\Michelle\\bootcamp\\native_script_testing\\nature_walk_working\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\logo.png",
+        "source": "C:\\Users\\Michelle\\bootcamp\\native_script_testing\\nature_walk_working\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\logo.png"
+    },
+    {
         "merged": "C:\\Users\\Michelle\\bootcamp\\native_script_tutorials\\nature_walk\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\coreopsis_gigantea.png",
         "source": "C:\\Users\\Michelle\\bootcamp\\native_script_tutorials\\nature_walk\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\coreopsis_gigantea.png"
     },
     {
+        "merged": "C:\\Users\\Michelle\\bootcamp\\native_script_testing\\nature_walk_working\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\mockingbird.png",
+        "source": "C:\\Users\\Michelle\\bootcamp\\native_script_testing\\nature_walk_working\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\mockingbird.png"
+    },
+    {
         "merged": "C:\\Users\\Michelle\\bootcamp\\native_script_tutorials\\nature_walk\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\mockingbird.png",
         "source": "C:\\Users\\Michelle\\bootcamp\\native_script_tutorials\\nature_walk\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\mockingbird.png"
+    },
+    {
+        "merged": "C:\\Users\\Michelle\\bootcamp\\native_script_testing\\nature_walk_working\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\coreopsis_gigantea.png",
+        "source": "C:\\Users\\Michelle\\bootcamp\\native_script_testing\\nature_walk_working\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\coreopsis_gigantea.png"
     },
     {
         "merged": "C:\\Users\\Michelle\\bootcamp\\homework\\nature_walk\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\icon.png",
@@ -20,6 +32,10 @@
         "source": "C:\\Users\\Michelle\\bootcamp\\native_script_tutorials\\nature_walk\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\icon.png"
     },
     {
+        "merged": "C:\\Users\\Michelle\\bootcamp\\native_script_testing\\nature_walk_working\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\background.png",
+        "source": "C:\\Users\\Michelle\\bootcamp\\native_script_testing\\nature_walk_working\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\background.png"
+    },
+    {
         "merged": "C:\\Users\\Michelle\\bootcamp\\homework\\nature_walk\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\coreopsis_gigantea.png",
         "source": "C:\\Users\\Michelle\\bootcamp\\homework\\nature_walk\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\coreopsis_gigantea.png"
     },
@@ -30,6 +46,10 @@
     {
         "merged": "C:\\Users\\Michelle\\bootcamp\\native_script_tutorials\\nature_walk\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\orange_blossoms.png",
         "source": "C:\\Users\\Michelle\\bootcamp\\native_script_tutorials\\nature_walk\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\orange_blossoms.png"
+    },
+    {
+        "merged": "C:\\Users\\Michelle\\bootcamp\\native_script_testing\\nature_walk_working\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\orange_blossoms.png",
+        "source": "C:\\Users\\Michelle\\bootcamp\\native_script_testing\\nature_walk_working\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\orange_blossoms.png"
     },
     {
         "merged": "C:\\Users\\Michelle\\bootcamp\\homework\\nature_walk\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\background.png",
@@ -54,5 +74,13 @@
     {
         "merged": "C:\\Users\\Michelle\\bootcamp\\homework\\nature_walk\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\zebra_longwing.png",
         "source": "C:\\Users\\Michelle\\bootcamp\\homework\\nature_walk\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\zebra_longwing.png"
+    },
+    {
+        "merged": "C:\\Users\\Michelle\\bootcamp\\native_script_testing\\nature_walk_working\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\icon.png",
+        "source": "C:\\Users\\Michelle\\bootcamp\\native_script_testing\\nature_walk_working\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Michelle\\bootcamp\\native_script_testing\\nature_walk_working\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxxhdpi\\zebra_longwing.png",
+        "source": "C:\\Users\\Michelle\\bootcamp\\native_script_testing\\nature_walk_working\\platforms\\android\\src\\main\\res\\drawable-xxxhdpi\\zebra_longwing.png"
     }
 ]

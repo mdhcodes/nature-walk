@@ -1,6 +1,14 @@
 var frameModule = require("ui/frame");
 
-exports.select_animal = function() {
+// var natureViewModel = require('../../shared/view-models/nature-view-model').natureViewModel;
+
+exports.onNavBtnTap = function() {
+    // This code will be called only in Android.
+    var topmost = frameModule.topmost();
+    topmost.navigate("views/main/main");
+}
+
+exports.moreInfo = function() {
 
     // Access the name of the selected animal to include in the url as the search term.
     var url = "https://simple.wikipedia.org/w/api.php?action=query&list=search&srlimit=15&srsearch=" + "butterfly"  + "&format=json&prop=revisions&origin=*";
@@ -16,5 +24,5 @@ exports.select_animal = function() {
     });
 
     var topmost = frameModule.topmost();
-    topmost.navigate("views/facts/facts");
+    topmost.navigate("views/nature/nature");
 }

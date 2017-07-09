@@ -4,8 +4,20 @@
         "source": "C:\\Users\\Michelle\\bootcamp\\homework\\nature_walk\\platforms\\android\\src\\main\\res\\drawable-hdpi\\logo.png"
     },
     {
+        "merged": "C:\\Users\\Michelle\\bootcamp\\native_script_testing\\nature_walk_working\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\background.png",
+        "source": "C:\\Users\\Michelle\\bootcamp\\native_script_testing\\nature_walk_working\\platforms\\android\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
         "merged": "C:\\Users\\Michelle\\bootcamp\\homework\\nature_walk\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\background.png",
         "source": "C:\\Users\\Michelle\\bootcamp\\homework\\nature_walk\\platforms\\android\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Michelle\\bootcamp\\native_script_testing\\nature_walk_working\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\coreopsis_gigantea.png",
+        "source": "C:\\Users\\Michelle\\bootcamp\\native_script_testing\\nature_walk_working\\platforms\\android\\src\\main\\res\\drawable-hdpi\\coreopsis_gigantea.png"
+    },
+    {
+        "merged": "C:\\Users\\Michelle\\bootcamp\\native_script_testing\\nature_walk_working\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\Users\\Michelle\\bootcamp\\native_script_testing\\nature_walk_working\\platforms\\android\\src\\main\\res\\drawable-hdpi\\icon.png"
     },
     {
         "merged": "C:\\Users\\Michelle\\bootcamp\\homework\\nature_walk\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\coreopsis_gigantea.png",
@@ -48,11 +60,27 @@
         "source": "C:\\Users\\Michelle\\bootcamp\\native_script_tutorials\\nature_walk\\platforms\\android\\src\\main\\res\\drawable-hdpi\\background.png"
     },
     {
+        "merged": "C:\\Users\\Michelle\\bootcamp\\native_script_testing\\nature_walk_working\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\zebra_longwing.png",
+        "source": "C:\\Users\\Michelle\\bootcamp\\native_script_testing\\nature_walk_working\\platforms\\android\\src\\main\\res\\drawable-hdpi\\zebra_longwing.png"
+    },
+    {
+        "merged": "C:\\Users\\Michelle\\bootcamp\\native_script_testing\\nature_walk_working\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\mockingbird.png",
+        "source": "C:\\Users\\Michelle\\bootcamp\\native_script_testing\\nature_walk_working\\platforms\\android\\src\\main\\res\\drawable-hdpi\\mockingbird.png"
+    },
+    {
         "merged": "C:\\Users\\Michelle\\bootcamp\\native_script_tutorials\\nature_walk\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\logo.png",
         "source": "C:\\Users\\Michelle\\bootcamp\\native_script_tutorials\\nature_walk\\platforms\\android\\src\\main\\res\\drawable-hdpi\\logo.png"
     },
     {
         "merged": "C:\\Users\\Michelle\\bootcamp\\homework\\nature_walk\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\icon.png",
         "source": "C:\\Users\\Michelle\\bootcamp\\homework\\nature_walk\\platforms\\android\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Michelle\\bootcamp\\native_script_testing\\nature_walk_working\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\logo.png",
+        "source": "C:\\Users\\Michelle\\bootcamp\\native_script_testing\\nature_walk_working\\platforms\\android\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Michelle\\bootcamp\\native_script_testing\\nature_walk_working\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\orange_blossoms.png",
+        "source": "C:\\Users\\Michelle\\bootcamp\\native_script_testing\\nature_walk_working\\platforms\\android\\src\\main\\res\\drawable-hdpi\\orange_blossoms.png"
     }
 ]

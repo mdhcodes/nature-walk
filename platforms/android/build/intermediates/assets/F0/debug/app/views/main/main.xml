@@ -4,11 +4,15 @@
   </Page.actionBar>
 
     <StackLayout orientation="vertical">
-        <Label class="h2 text-center" text="Let's look for life in the woods!"></Label>
-        <Label class="h3 text-center" text="Animals"></Label>
-        <Image src="res://zebra_longwing" stretch="none" horizontalAlignment="center" tap="choose_animals" />
-        <Label class="h3 text-center" text="Plants"></Label>
-        <Image src="res://orange_blossoms" stretch="none" horizontalAlignment="center" tap="choose_plants" />   
+        <Label class="h2 text-center" text="Life you might see"></Label>
+        <Label class="h2 text-center" text="on a walk in the park!"></Label>
+        <Label class="h3 text-center" text="Click the image to find out about each life form."></Label>
+
+        <Image src="res://zebra_longwing" width="100" height="100" stretch="aspectFill" horizontalAlignment="center" tap="butterfly" />
+        <Image src="res://coreopsis_gigantea" width="100" height="100" stretch="aspectFill" horizontalAlignment="center" tap="" />
+        <Image src="res://mockingbird" width="100" height="100" stretch="aspectFill" horizontalAlignment="center" tap="" />
+        <Image src="res://orange_blossoms" width="100" height="100" stretch="aspectFill" horizontalAlignment="center" tap="" />   
     </StackLayout>
 
 </Page>
+ 
