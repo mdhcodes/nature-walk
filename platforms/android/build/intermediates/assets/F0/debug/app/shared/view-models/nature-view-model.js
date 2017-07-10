@@ -7,8 +7,8 @@ function natureViewModel(database) {
     var viewModel = new observable();
 
     viewModel.results = new ObservableArray([]);
-    
-    //viewModel.facts = function() {        
+
+    //viewModel.getFacts = function() {
 
         // Display specified data from the nature_walk.db - Get id of the animal or plant image clicked.
         //viewModel.name = "";
@@ -18,7 +18,7 @@ function natureViewModel(database) {
 
     //}
 
-    
+
 
     return viewModel;
 

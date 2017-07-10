@@ -1,5 +1,5 @@
 <Page xmlns="http://schemas.nativescript.org/tns.xsd" loaded="loaded">
-  
+
     <ActionBar title="Nature Walk">
         <NavigationButton text="Go Back" android.systemIcon="ic_menu_back" tap="onNavBtnTap"/>
     </ActionBar>
@@ -7,10 +7,10 @@
     <StackLayout orientation="vertical">
         <Label class="h2 text-center" text="Butterfly Facts"></Label>
 
-         <Image src="res://zebra_longwing" width="100" height="100" stretch="aspectFill" horizontalAlignment="center" tap="butterfly" />
+         <Image id="Butterfly" src="res://zebra_longwing" width="100" height="100" stretch="aspectFill" horizontalAlignment="center" tap="butterfly" />
 
-            
 
+        <!-- Execute simple.wikipedia.org api search -->
         <Button text="Get More Information" tap="moreInfo" />
     </StackLayout>
 </Page>

@@ -1,6 +1,12 @@
 var frameModule = require("ui/frame");
 
-// var natureViewModel = require('../../shared/view-models/nature-view-model').natureViewModel;
+var page;
+
+exports.loaded = function(args) {
+    // Get a reference to the current page.
+    page = args.object;
+    console.log("PAGE", page);
+};
 
 exports.onNavBtnTap = function() {
     // This code will be called only in Android.
@@ -15,7 +21,7 @@ exports.moreInfo = function() {
 
     fetch(url, {
 	    method: 'GET'
-    }).then(function(response) { 
+    }).then(function(response) {
        console.dir(response); // The simple.wikipedia.org results print to the console.
        // var title = response.query.search[0].title;
        // var snippet = response.query.search[0].snippet;
